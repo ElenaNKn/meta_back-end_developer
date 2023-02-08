@@ -1,0 +1,1 @@
+This repository contains my solutions for programming assignments of "Meta Back-End Developer Professional Certificate" specialization at Coursera (https://www.coursera.org/professional-certificates/meta-back-end-developer).
